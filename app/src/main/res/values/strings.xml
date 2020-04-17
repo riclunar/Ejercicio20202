@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejercicio20201</string>
+    <string name="titulo">Programando Android</string>
+    <string name="nombre">Ingresa tu Nombre</string>
+    <string name="edad">Ingresa tu Edad</string>
+    <string name="correo">Ingresa tu e-mail</string>
+    <string name="telefono">Ingresa tu  Teléfono</string>
+    <string name="dev">Ricardo Luna Rivera - 7s11</string>
+</resources>
